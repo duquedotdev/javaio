@@ -11,6 +11,8 @@ import java.io.Serializable;
  */
 public class Cliente  implements Serializable {
 
+    private static final long serialVersionUID = 4L;
+
     private String nome;
     private String cpf;
     private String profissao;

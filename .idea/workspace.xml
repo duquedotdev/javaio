@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa67a891-cd15-487f-95f3-e8add5cff603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/TesteSerializacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/TesteSerializacaoCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/TesteUnicodeEEncoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/br/com/alura/java/io/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/java/io/TesteSerializacaoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/java/io/TesteSerializacaoCliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,26 +135,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="358" width="424" height="454" key="FileChooserDialogImpl" timestamp="1579281466345">
+    <state x="743" y="358" width="424" height="454" key="FileChooserDialogImpl" timestamp="1579518295413">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="743" y="358" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1200@0.0.1920.1200" timestamp="1579281466345" />
-    <state width="1330" height="249" key="GridCell.Tab.0.bottom" timestamp="1579289712475">
+    <state x="743" y="358" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1200@0.0.1920.1200" timestamp="1579518295413" />
+    <state width="1330" height="248" key="GridCell.Tab.0.bottom" timestamp="1579518296780">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1330" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1579289712475" />
-    <state width="1330" height="249" key="GridCell.Tab.0.center" timestamp="1579289712473">
+    <state width="1330" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1579518296780" />
+    <state width="1330" height="248" key="GridCell.Tab.0.center" timestamp="1579518296776">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1330" height="249" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1579289712473" />
-    <state width="1330" height="249" key="GridCell.Tab.0.left" timestamp="1579289712473">
+    <state width="1330" height="248" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1579518296776" />
+    <state width="1330" height="248" key="GridCell.Tab.0.left" timestamp="1579518296774">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1330" height="249" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1579289712473" />
-    <state width="1330" height="249" key="GridCell.Tab.0.right" timestamp="1579289712474">
+    <state width="1330" height="248" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1579518296774" />
+    <state width="1330" height="248" key="GridCell.Tab.0.right" timestamp="1579518296778">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1330" height="249" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1579289712474" />
+    <state width="1330" height="248" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1579518296778" />
     <state x="620" y="427" width="670" height="315" key="com.intellij.ide.util.TipDialog" timestamp="1579262487657">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>

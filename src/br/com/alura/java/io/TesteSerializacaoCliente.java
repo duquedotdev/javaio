@@ -10,15 +10,14 @@ public class TesteSerializacaoCliente {
 
 public static void main(String[]args) throws Exception{
 
-        /*Cliente cliente = new Cliente();
-        cliente.setNome("Felipe Duque");*/
+        Cliente cliente = new Cliente();
+        cliente.setNome("Felipe Duque");
 
-        /*ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("cliente.bin"));
+        ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("cliente.bin"));
 
         oos.writeObject(cliente);
 
         oos.close();
-*/
 
         ObjectInputStream ois = new ObjectInputStream(new FileInputStream("cliente.bin"));
 
